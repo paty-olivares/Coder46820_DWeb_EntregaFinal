@@ -1,0 +1,11 @@
+{
+  "name": "entrega4",
+  "version": "1.0.0",
+  "description": "Entrega 4 - proyecto DW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patricia Olivares",
+  "license": "ISC"
+}
